@@ -1,3 +1,4 @@
+//sort an array in ascending order
 #include<stdio.h>
 void main (){
    int num[20];
